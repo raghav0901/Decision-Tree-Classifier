@@ -9,9 +9,9 @@ dataset to build a decision tree to classify the class of the flower:
 
 ## Numerical Representation of the flower classes:
 
-0 -- Iris Setosa 
-1 -- Iris Versicolour 
-2 -- Iris Virginica
+0 -- Iris Setosa <br>
+1 -- Iris Versicolour <br>
+2 -- Iris Virginica <br>
 
 ## Printing steps:
 At each level, the nodes ans their current entropy value are printed. <br>
