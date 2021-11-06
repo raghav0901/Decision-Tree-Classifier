@@ -14,7 +14,7 @@ dataset to build a decision tree to classify the class of the flower:
 2 -- Iris Virginica <br>
 
 ## Printing steps:
-At each level, the nodes ans their current entropy value are printed. <br>
+At each level, the nodes and their current entropy value are printed. <br>
 Whenever, a split is made or a leaf node is reached, appropriate message is also printed at that level.
 
 
